@@ -1,3 +1,31 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+	/* Purple Shades */
+	--purple-60: #8a00f9;
+	--purple-65: #9800fa;
+	--purple-70: #a703fb;
+	--purple-75: #b658fc;
+	--purple-90: #e1c3fe;
+	--purple-95: #f0e2fe;
+	--purple-97: #f6edfe;
+	--purple-99: #fcf9ff;
+
+	/* White Shades */
+	--white-90: #e4e4e7;
+	--white-95: #f1f1f3;
+	--white-97: #f7f7f8;
+	--white-99: #fcfcfd;
+
+	/* Grey Shades */
+	--grey-08: #141414;
+	--grey-10: #1a1a1a;
+	--grey-15: #262626;
+	--grey-20: #333333;
+	--grey-30: #4d4d4d;
+	--grey-40: #666666;
+	--grey-50: #808080;
+	--grey-60: #999999;
+}
